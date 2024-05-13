@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding: 0;
+   
+   
+}
+body{
+    background-color: aliceblue;
+}
+/* 
+html{
+    background-image: linear-gradient(rgba(255, 0, 0, 0.476),rgba(255, 166, 0, 0.51),rgba(255, 255, 0, 0.553),rgba(11, 202, 11, 0.562),rgba(0, 195, 255, 0.577),rgba(176, 11, 176, 0.547));
+    
+} */

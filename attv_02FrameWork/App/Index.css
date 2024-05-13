@@ -1,0 +1,51 @@
+@import url(https://fonts.google.com/specimen/Montserrat);
+
+@import url(https://fonts.google.com/specimen/Fraunces);
+
+*{
+    padding: 0;
+    margin: 0;
+ }
+
+
+h3{
+    font-family: 'Fraunces', sans-serif;
+    font-weight: 500;
+}
+
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+button{
+    font-family:'Fraunces', sans-serif;
+    font-weight: 700;
+}
+
+body{
+    background-color:hsl(30, 38%, 92%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 150px;
+}
+
+button{
+    transition: 0.2s;
+}
+button:hover{
+    background-color: rgb(18, 18, 18);
+}
+
+@media screen and (max-width:640px){
+   section{
+        display: flex;
+        flex-direction: column;
+        
+      
+    } 
+
+  
+  
+}
